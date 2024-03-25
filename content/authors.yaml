@@ -1,0 +1,77 @@
+
+  - id: "3de1-4775-8da8"
+    web:
+      metaDescription: ""
+      metaTitle: " Uncle Tom Cobley"
+      metaLinkText: " Uncle Tom Cobley"
+      metaKeywords: null
+      pathPart: "uncle-tom-cobley"
+      path: "/blog/uncle-tom-cobley/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 21
+      listed: true
+      createdByUserZUID: "5-da8c91c9da-l9cqsz"
+    data:
+      name: " Uncle Tom Cobley"
+  - id: "519d-4afd-e246"
+    web:
+      metaDescription: ""
+      metaTitle: "Joe Bloggs"
+      metaLinkText: "Joe Bloggs"
+      metaKeywords: null
+      pathPart: "joe-bloggs"
+      path: "/blog/joe-bloggs/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 20
+      listed: true
+      createdByUserZUID: "5-da8c91c9da-l9cqsz"
+    data:
+      name: "Joe Bloggs"
+  - id: "e8e2-2454-f714"
+    web:
+      metaDescription: ""
+      metaTitle: "Fred Nerk"
+      metaLinkText: "Fred Nerk"
+      metaKeywords: null
+      pathPart: "fred-nerk"
+      path: "/blog/fred-nerk/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 19
+      listed: true
+      createdByUserZUID: "5-da8c91c9da-l9cqsz"
+    data:
+      name: "Fred Nerk"
+  - id: "72d1-f598-f9dd"
+    web:
+      metaDescription: ""
+      metaTitle: "Juan Perez"
+      metaLinkText: "Juan Perez"
+      metaKeywords: null
+      pathPart: "juan-perez"
+      path: "/blog/juan-perez/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 18
+      listed: true
+      createdByUserZUID: "5-da8c91c9da-l9cqsz"
+    data:
+      name: "Juan Perez"

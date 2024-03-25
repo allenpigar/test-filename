@@ -1,0 +1,77 @@
+[
+    {
+        "name": "homepage",
+        "code": "/homepage.tpl",
+        "type": "templateset"
+    },
+    {
+        "name": "loader",
+        "code": "/loader.tpl",
+        "type": "snippet"
+    },
+    {
+        "name": "404",
+        "code": "/404.tpl",
+        "type": "404"
+    },
+    {
+        "name": "blog",
+        "code": "/blog.tpl",
+        "type": "templateset"
+    },
+    {
+        "name": "categories",
+        "code": "/categories.tpl",
+        "type": "pageset"
+    },
+    {
+        "name": "articles",
+        "code": "/articles.tpl",
+        "type": "pageset"
+    },
+    {
+        "name": "authors",
+        "code": "/authors.tpl",
+        "type": "pageset"
+    },
+    {
+        "name": "contact-section",
+        "code": "/contact-section.tpl",
+        "type": "snippet"
+    },
+    {
+        "name": "header",
+        "code": "/header.tpl",
+        "type": "snippet"
+    },
+    {
+        "name": "404-page",
+        "code": "/404-page.tpl",
+        "type": "snippet"
+    },
+    {
+        "name": "footer",
+        "code": "/footer.tpl",
+        "type": "snippet"
+    },
+    {
+        "name": "/test.html",
+        "code": "/test.html",
+        "type": "ajax-json"
+    },
+    {
+        "name": "/test1.html",
+        "code": "/test1.html",
+        "type": "snippet"
+    },
+    {
+        "name": "test/test1.html",
+        "code": "/test/test1.html",
+        "type": "snippet"
+    },
+    {
+        "name": "/test/test2.html",
+        "code": "/test/test2.html",
+        "type": "ajax-json"
+    }
+]
